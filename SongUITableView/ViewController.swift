@@ -28,7 +28,7 @@ class TableViewController: UITableViewController {
     // MARK: - Section1
     let song = [
         
-        Song(singer: "林俊傑", song: "偉大的渺小SDFSDFSDF", image: #imageLiteral(resourceName: "偉大的渺小")),
+        Song(singer: "林俊傑", song: "偉大的渺小", image: #imageLiteral(resourceName: "偉大的渺小")),
         Song(singer: "林宥嘉", song: "天真有邪", image: #imageLiteral(resourceName: "今日營業中")),
         Song(singer: "盧廣仲", song: "幾分之幾", image:#imageLiteral(resourceName: "幾分之幾")),
         
